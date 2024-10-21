@@ -31,7 +31,7 @@
 - Create and Activate a Virtual Environment 
 ```
 python -m vish vish
-source vish/bin/activate  # On Windows, use venv\Scripts\activate
+source vish/bin/activate  # On Windows, use vish\Scripts\activate
 ```
 - Install Required Packages
 ```
